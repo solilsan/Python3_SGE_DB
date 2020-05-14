@@ -1,0 +1,11 @@
+Para poder realizar las pruebas necesitamos xammp para poder subir la base de datos.
+Otra manera es en el archivo python conexion.py, cambiarlo a una base de datos que esta en línea, esta base de datos va muy lenta ya que es una base de datos de prueba online.
+
+Para poder encender la aplicacón tenemos que abrir el CMD dentro de la carpeta del proyecto (Proyecto_SGE_conBaseDatos_Alexsandro_Ruiz)
+y tenemos que poner en la terminal "python appBD.py" y se nos pondra la aplicación en lolcal : http://127.0.0.1:5000/
+este es un entorno de pruebas de python.
+
+Usuarios para la aplicación:
+	alex 123 (Acceso a cualquier departamento)
+	pepe 123 (Acceso a compras)
+	juan 123 (Acceso a ventas)

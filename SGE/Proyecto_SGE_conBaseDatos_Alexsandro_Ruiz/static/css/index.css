@@ -1,0 +1,78 @@
+#div_carga{
+  display:none;
+}
+
+td {
+  width: 20%;
+  color: white;
+}
+
+th {
+  background-color: #b89df1;
+}
+
+div#dt-select_info {
+  color: white;
+}
+
+div#dt-select_filter {
+  color: white;
+}
+
+input {
+  color: white !important;
+}
+
+.form-control.form-control-sm {
+    color: black !important;
+  }
+
+.navbar.navbar-expand-lg.navbar-dark.mt-2 {
+  background-color: 
+  black;
+}
+
+.dropdown-item {
+  color: white !important;
+}
+
+.dropdown-menu {
+  background-color: black;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+  background-color: black !important;
+  border: 1px solid white !important;
+}
+
+.menuB {
+  border: 1px solid #fdfdfd !important;
+  color: white !important;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: black !important;
+    border: 1px solid white !important;
+}
+
+outline-info.dropdown-toggle {
+ border-color: white !important;
+}
+
+.navbar-brand {
+  border: 1px solid white;
+  padding: 10px;
+}
+
+.btn-outline-info.active, .btn-outline-info:active, .btn-outline-info:active:focus, .btn-outline-info:focus, .btn-outline-info:hover, .navbar-brand {
+  border-color: white !important;
+  color: white !important;
+}
+
+.btn-outline-info:not([disabled]):not(.disabled).active, .btn-outline-info:not([disabled]):not(.disabled):active, .show > .btn-outline-info.dropdown-toggle {
+  border-color: white !important;
+}
+
+button {
+  border-radius: 15px 15px 15px 15px !important;
+}
